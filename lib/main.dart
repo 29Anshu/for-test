@@ -71,7 +71,7 @@ class _LoginPageState extends State<LoginPage>
                 ),
                 new TextFormField(
                   decoration: new InputDecoration(
-                    hintText: "Password",
+                    hintText: "Password new one",
                   ),
                   keyboardType: TextInputType.emailAddress,
                 ),
